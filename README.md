@@ -1,4 +1,2 @@
 # Restaurant Information Management Program
-: Created a Java program to insert, update, delete and retrieve information to/from a MySQL database.
-## Database
-* Spring 2018 (Fall -- Update) , Team Project
+: Created database application using MySQL and Java JDBC to manage reservation systems for local restaurants near Ewha Womans university.
